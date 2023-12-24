@@ -31,7 +31,7 @@ USE_OPENGL_RENDERER := true
 
 # RIL
 BOARD_PROVIDES_RILD := true
-BOARD_RIL_CLASS := device/lenovo/sprd-common/ril
+BOARD_RIL_CLASS := ../../device/lenovo/sprd-common/ril
 
 # Bluetooth
 BOARD_HAVE_BLUETOOTH := true
